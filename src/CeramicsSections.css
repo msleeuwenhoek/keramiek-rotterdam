@@ -1,0 +1,8 @@
+.split {
+  display: flex;
+}
+
+.CeramicsSections img {
+  max-width: 30%;
+  max-height: 200px;
+}
