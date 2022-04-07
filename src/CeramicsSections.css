@@ -1,8 +1,15 @@
 .split {
   display: flex;
+  margin: 6rem auto;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
 }
 
 .CeramicsSections img {
   max-width: 30%;
-  max-height: 200px;
+}
+
+.CeramicsSections .img-description {
+  max-width: 30%;
 }
