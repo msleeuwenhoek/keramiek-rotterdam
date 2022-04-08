@@ -1,6 +1,7 @@
 import React from "react";
 import "./Home.css";
 import CeramicsSections from "./CeramicsSections";
+import CourseInformation from "./CourseInformation";
 
 export default function Header() {
   return (
@@ -11,6 +12,7 @@ export default function Header() {
         <button>Join</button>
       </div>
       <CeramicsSections />
+      <CourseInformation />
     </div>
   );
 }
