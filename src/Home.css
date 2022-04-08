@@ -1,3 +1,9 @@
-.header {
+.Home {
+  color: #5a6275;
+}
+
+.Home .header {
   text-align: center;
+  min-height: 100vh;
+  background-color: rgb(93, 93, 152);
 }
